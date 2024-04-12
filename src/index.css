@@ -17,6 +17,7 @@ body {
 h1 {
   display: flex;
   justify-content: center;
+  color: hsl(230, 40%, 80%);
   font-size: 3.5rem;
   font-weight: 300;
   animation: lights 5s 750ms linear infinite;
